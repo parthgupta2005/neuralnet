@@ -72,10 +72,6 @@ To contribute to this project:
 
 - **Parth Gupta** - *Initial work* - [GitHub Profile](https://github.com/parthgupta)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration for this project came from exploring basic machine learning techniques in Java.
